@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👾 My biggest goal right now is to improve myself in everything related to SQL and C# .NET Core and contribute to real world problems.<br><br>📝 I have basic knowledge of Python, SQL, C# .NET Core, Flutter (Dart), JavaScript, HTML, CSS.</p>
+<p align="left">👾 My biggest goal right now is to improve myself in the field of database and data science with SQL and everything related to C# .NET Core and to contribute to real world problems..<br><br>📝 I have basic knowledge of Python, SQL, C# .NET Core, Flutter (Dart), JavaScript, HTML, CSS.</p>
 
 ###
 
