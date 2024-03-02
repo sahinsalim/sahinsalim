@@ -16,9 +16,6 @@
 
 <h2 align="left">🚀 Technologies</h2>
 
-###
-
-<h3 align="left">*</h3>
 
 ###
 
