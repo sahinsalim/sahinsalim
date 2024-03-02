@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="left"></h3>
+<h3 align="left">*</h3>
 
 ###
 
