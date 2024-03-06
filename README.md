@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👾 I am developing myself in the field of database and data science related to SQL and C# .NET Core and contributing to real world problems...<br><br>📝 I have basic knowledge of Python, SQL, C# .NET Core, Flutter (Dart), JavaScript, HTML, CSS.</p>
+<p align="left">👾 I am developing myself in the field of database and data science related to SQL and C# .NET and contributing to real world problems...<br><br>📝 I have basic knowledge of Python, SQL, C# .NET, Flutter (Dart), JavaScript, HTML, CSS.</p>
 
 ###
 
