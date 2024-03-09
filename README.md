@@ -6,7 +6,13 @@
 
 ###
 
-<p align="left">👾 I am developing myself in the field of database and data science related to SQL and C# .NET and contributing to real world problems...<br><br>📝 I have basic knowledge of Python, SQL, C# .NET, Flutter (Dart), JavaScript, HTML, CSS.</p>
+<p align="left">
+  👾 I am a software developer with a background in Software Engineering and intermediate
+experience in technologies such as C#, HTML, JS, CSS, SQL and Git. I am particularly focused on
+advancing my career in developing web projects using ASP.NET. I also closely follow the
+developments in the field of AI and aim to progress in a way that is open to innovations in this
+field.
+</p>
 
 ###
 
@@ -32,7 +38,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
 </div>
 
 ###
@@ -54,9 +59,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
 </div>
 
 ###
