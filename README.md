@@ -10,7 +10,7 @@
   👾 I am a software developer with a background in Software Engineering and intermediate
 experience in technologies such as C#, HTML, JS, CSS, SQL and Git. I am particularly focused on
 advancing my career in developing web projects using ASP.NET. I also closely follow the
-developments in the field of AI and aim to progress in a way that is open to innovations in this
+developments in the field of  AI and aim to progress in a way that is open to innovations in this
 field.
 </p>
 
